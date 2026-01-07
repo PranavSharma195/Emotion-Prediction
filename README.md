@@ -50,7 +50,7 @@ streamlit run app.py
 
 Emotion-Prediction/  
 ├── app.py - Streamlit application  
-├── Emotion_Prediction.ipynb - Model training & analysis  
+├── 23048577_Pranav_Sharma.ipynb - Model training & analysis  
 ├── air_emotion_full_dataset.csv - Combined dataset  
 ├── nb_model_before.pkl - Naive Bayes before tuning  
 ├── nb_model_after.pkl - Naive Bayes after tuning  
@@ -59,7 +59,6 @@ Emotion-Prediction/
 ├── tfidf_vectorizer.pkl - TF-IDF vectorizer  
 ├── X_test_tfidf.pkl - Test features  
 ├── y_test.pkl - Test labels  
-├── Emotion_Prediction.pdf - Project report  
 └── README.md - This documentation
 
 ---
